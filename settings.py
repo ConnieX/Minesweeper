@@ -1,0 +1,5 @@
+HEIGHT = 726
+TOP_HEIGHT = 50
+WIDTH = HEIGHT - TOP_HEIGHT
+GRID_SIZE = 13
+MINE_COUNT = (GRID_SIZE ** 2) // 4  # pick 1/4 of the cells as mines
